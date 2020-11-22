@@ -3,11 +3,11 @@
 <something-else-entirely>
 	<proxool>
 		<alias>DBPool</alias>
-		<driver-url>jdbc:mysql://47.107.227.121:3306/bgzdh_db?characterEncoding=utf-8</driver-url>
+		<driver-url>jdbc:mysql://localhost:3306/bgzdh_db?characterEncoding=utf-8</driver-url>
 		<driver-class>com.mysql.jdbc.Driver</driver-class>
 		<driver-properties>
 			<property name="user" value="root" />
-			<property name="password" value="sxzt888888" />
+			<property name="password" value="123456" />
 		</driver-properties>
 		<!-- 最大连接数(默认5个),超过了这个连接数,再有请求时,就排在队列中等候,最大的等待请求数由maximum-new-connections决定 -->
         <maximum-connection-count>100</maximum-connection-count>

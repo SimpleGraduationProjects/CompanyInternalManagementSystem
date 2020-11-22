@@ -33,7 +33,7 @@
 
 	<property name="hibernate.hbm2ddl.auto">update</property>
 	<property name="connection.username">root</property>
-	<property name="connection.password">root</property>
+	<property name="connection.password">123456</property>
 
 
 

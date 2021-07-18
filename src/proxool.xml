@@ -3,7 +3,7 @@
 <something-else-entirely>
 	<proxool>
 		<alias>DBPool</alias>
-		<driver-url>jdbc:mysql://localhost:3306/bgzdh_db?characterEncoding=utf-8</driver-url>
+		<driver-url>jdbc:mysql://localhost:3306/graduation_bgzdh_db?characterEncoding=utf-8</driver-url>
 		<driver-class>com.mysql.jdbc.Driver</driver-class>
 		<driver-properties>
 			<property name="user" value="root" />
